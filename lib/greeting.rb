@@ -1,3 +1,6 @@
 # code the #greeting method here!
 
-#gets.strip
+puts "Greetings, enter login:" 
+end
+
+name = #{gets.strip}". 
